@@ -1,2 +1,3 @@
-# basic-SQL
-Basic SQL queries for given sample database
+# Example-SQL
+SQL queries for given sample database
+Worked out exercises to operate relational database
